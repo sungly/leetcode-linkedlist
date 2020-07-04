@@ -32,7 +32,7 @@ class LinkedListUtils {
             linkedlist = linkedlist.next;
         }
 
-        return `${visualizeString}null`;
+        console.log(`${visualizeString}null`);
     }
 }
 
