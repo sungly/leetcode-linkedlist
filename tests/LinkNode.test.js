@@ -24,6 +24,6 @@ describe('LinkNode class', () => {
         node1 = node1.next;
 
         expect(node1.val).toBe(2);
-        expect(node1.next).toBe(null)
-    })
+        expect(node1.next).toBe(null);
+    });
 });

@@ -6,5 +6,5 @@ class LinkNode {
 }
 
 module.exports = {
-    LinkNode
-}
+    LinkNode,
+};

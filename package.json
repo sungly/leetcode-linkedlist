@@ -1,26 +1,26 @@
 {
-  "name": "leetcode-linkedlist",
-  "version": "1.0.0",
-  "description": "A simple packge for creating and visualizing linkedlist when doing leetcode problems ",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sungly/leetcode-linkedlist.git"
-  },
-  "keywords": [
-    "leetcode",
-    "linkedlist"
-  ],
-  "author": "Ly Sung",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sungly/leetcode-linkedlist/issues"
-  },
-  "homepage": "https://github.com/sungly/leetcode-linkedlist#readme",
-  "devDependencies": {
-    "jest": "^26.1.0"
-  }
+    "name": "leetcode-linkedlist",
+    "version": "1.0.0",
+    "description": "A simple packge for creating and visualizing linkedlist when doing leetcode problems ",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sungly/leetcode-linkedlist.git"
+    },
+    "keywords": [
+        "leetcode",
+        "linkedlist"
+    ],
+    "author": "Ly Sung",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sungly/leetcode-linkedlist/issues"
+    },
+    "homepage": "https://github.com/sungly/leetcode-linkedlist#readme",
+    "devDependencies": {
+        "jest": "^26.1.0"
+    }
 }

@@ -24,10 +24,10 @@ class LinkedListUtils {
      * @param {*} linkedlist
      */
     static visualizeNodes(linkedlist) {
-        let visualizeString = "";
+        let visualizeString = '';
 
         while (linkedlist !== null) {
-            visualizeString += `${linkedlist.val} -> `
+            visualizeString += `${linkedlist.val} -> `;
 
             linkedlist = linkedlist.next;
         }
@@ -37,5 +37,5 @@ class LinkedListUtils {
 }
 
 module.exports = {
-    LinkedListUtils
-}
+    LinkedListUtils,
+};
