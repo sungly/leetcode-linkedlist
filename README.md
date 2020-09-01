@@ -1,6 +1,6 @@
 # leetcode-linkedlist
 
-A simple package for creating linked-list and visualizing linked-list while doing leetcodoe
+A simple package for creating linked-list and visualizing linked-list while doing leetcode
 
 ### To create a linkedlist
 
